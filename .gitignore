@@ -1,0 +1,21 @@
+# Compilação e binários
+out/
+*.class
+*.jar
+!lib/postgresql.jar
+
+# Configurações locais com senhas e portas
+db.properties
+
+# Arquivos de IDEs e Editores
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+Desktop.ini
+.DS_Store

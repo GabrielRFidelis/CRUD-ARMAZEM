@@ -1,0 +1,7 @@
+# Exemplo de configurações de banco de dados
+# Copie este arquivo para db.properties e ajuste conforme seu ambiente
+db.host=localhost
+db.port=5432
+db.name=estoque_db
+db.user=postgres
+db.password=sua_senha_aqui
